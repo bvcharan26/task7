@@ -30,9 +30,5 @@ This simple web app demonstrates how to use JavaScript's `fetch()` API to retrie
 - Error handling using `.catch()`
 - Basic frontend styling
 
-## 🚀 How to Run
 
-1. Clone or download the repository:
-   ```bash
-   git clone https://github.com/indian3lion6/Intern_practice/new/main/task7.git
    
